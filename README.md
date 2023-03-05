@@ -1,14 +1,9 @@
 # novelty-detection
 
-- 3 sigma
-[github](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/three_sigma.ipynb)
-[colab](colab.research.google.com/github/mipt-nd/novelty-detection/blob/ml_and_stat_methods/three_sigma.ipynb)
-- IForest
-[github](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_iForest.ipynb)
-[colab](colab.research.google.com/github/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_iForest.ipynb)
-- One-SVM
-[github](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_OneClassSVM.ipynb)
-[colab](colab.research.google.com/github/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_OneClassSVM.ipynb)
+- [3 sigma](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/three_sigma.ipynb)
+
+- [IForest](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_iForest.ipynb)
+- [One-SVM](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_OneClassSVM.ipynb)
 - KNN
 - Local Outlier Factor (LOF)
 - K-means
