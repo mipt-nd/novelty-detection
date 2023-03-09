@@ -5,9 +5,9 @@
 - [IForest](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_iForest.ipynb)
 - [One-SVM](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_OneClassSVM.ipynb)
 - KNN
-- Local Outlier Factor (LOF)
+- [Local Outlier Factor (LOF)](https://github.com/mipt-nd/novelty-detection/blob/ml_and_stat_methods/ml_semi_lof.ipynb)
 - K-means
-- DBSCAN
+- ~DBSCAN~
 
 **Personal suggestion on selecting an OD algorithm**. If you do not know which algorithm to try, go with:
 
